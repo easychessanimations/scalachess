@@ -1,0 +1,10 @@
+
+node bump.js
+
+npm publish --access=public
+
+git add .
+
+git commit -m "Bump"
+
+git push origin master

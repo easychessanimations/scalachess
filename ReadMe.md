@@ -1,0 +1,3 @@
+#scalachess
+
+Package scalachess.

@@ -1,0 +1,28 @@
+{
+  "name": "@easychessanimations/scalachess",
+  "version": "1.0.1",
+  "description": "Package scalachess.",
+  "main": "./lib/scalachess.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "scalachess": "./lib/scalachess.js"
+  },
+  "keywords": [
+    "scalachess"
+  ],
+  "author": "easychessanimations",
+  "license": "MIT",
+  "homepage": "https://github.com/easychessanimations/scalachess",
+  "bugs": {
+    "url": "https://github.com/easychessanimations/scalachess/issues",
+    "email": "chessbotroulette@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/easychessanimations/scalachess.git"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

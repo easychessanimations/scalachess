@@ -1,0 +1,4 @@
+
+git init
+
+cp config .git\config
