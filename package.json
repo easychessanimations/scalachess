@@ -1,6 +1,6 @@
 {
   "name": "@easychessanimations/scalachess",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Package scalachess.",
   "main": "./lib/scalachess.js",
   "scripts": {
